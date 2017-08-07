@@ -2,7 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#define EXTERNALAPPPATH "../Bike/externalApp/Bike"
+#define EXTERNALAPPPATH "../Bike/externalApp/Window"
 namespace Ui {
 class MainWindow;
 }
